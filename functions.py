@@ -32,7 +32,7 @@ school_name = "Chris-Ade International Academy"
 test_number = 102
 def print_school():
   print(f"Test number - {test_number}")
-  print(f"School name - {school_name}")
+  # print(f"School name - {school_name}")
   print("My question- Why does test_number print but school_name does not print? The type?")
   print("===========")
   teacher_name = "Mr. Esho" #This is a local variable
